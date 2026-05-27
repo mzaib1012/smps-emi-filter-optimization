@@ -1,0 +1,40 @@
+# MATLAB generated folders and files
+# ==================================
+.matlab/
+bin/
+build/
+dist/
+DerivedData/
+
+# Simulation, Code Generation, and Cache directories
+slprj/
+sfprj/
+_developer/
+*_ert_rtw/
+*.prj
+*.slxc
+*.mex*
+*.p
+
+# Autosave and Temporary recovery files
+*.asv
+*.mat~
+*.m~
+*.mlx~
+~*
+*.bak
+*.log
+
+# Figure and UI exports (uncomment if you want to block all image exports)
+# *.png
+# *.jpg
+# *.fig
+
+# User-specific configuration or workspace states
+.matlab_desktop
+mexopts.sh
+mexopts.bat
+
+# System / OS specific files
+.DS_Store
+Thumbs.db
